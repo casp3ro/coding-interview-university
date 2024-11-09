@@ -619,9 +619,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
   - [ ] About Arrays:
     - [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
-      - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+      - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
       - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-      - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+      - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
       - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
   - [ ] Implement a vector (mutable array with automatic resizing):
     - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
@@ -653,12 +653,12 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
   - [ ] Description:
     - [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
-      - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+      - [x] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
       - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
       - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
       - [ ] [[Review] Linked lists in 4 minutes (video)](https://youtu.be/F8AbOfQwl1c)
   - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo) - not the whole video, just portions about Node struct and memory allocation
-  - [ ] Linked List vs Arrays:
+  - [x] Linked List vs Arrays:
     - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
     - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
   - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
@@ -681,19 +681,19 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] value_n_from_end(n) - returns the value of the node at the nth position from the end of the list
     - [ ] reverse() - reverses the list
     - [ ] remove_value(value) - removes the first item in the list with this value
-  - [ ] Doubly-linked List
+  - [x] Doubly-linked List
     - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
     - No need to implement
 
 - ### Stack
 
-  - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-  - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
+  - [x] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+  - [x] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
   - [ ] Will not implement. Implementing with the array is trivial
 
 - ### Queue
 
-  - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+  - [x] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
   - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
   - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
   - [ ] Implement using linked-list, with tail pointer:
@@ -723,14 +723,14 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [PyCon 2017: The Dictionary Even Mightier (video)](https://www.youtube.com/watch?v=66P5FMkWoVU)
     - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
     - [ ] [(Advanced) Perfect hashing (video)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
-    - [ ] [[Review] Hash tables in 4 minutes (video)](https://youtu.be/knV86FlSXJ8)
+    - [x] [[Review] Hash tables in 4 minutes (video)](https://youtu.be/knV86FlSXJ8)
 
   - [ ] Online Courses:
 
-    - [ ] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
+    - [x] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
     - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/4)
-    - [ ] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
-    - [ ] distributed hash tables:
+    - [x] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
+    - [x] distributed hash tables:
       - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
       - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
@@ -812,7 +812,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 - ### Binary search trees: BSTs
 
   - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-  - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+  - [x] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
   - [ ] [MIT (video)](https://www.youtube.com/watch?v=76dhtgZt38A&ab_channel=MITOpenCourseWare)
   - C/C++:
     - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
@@ -841,19 +841,19 @@ if you can identify the runtime complexity of different algorithms. It's a super
 - ### Heap / Priority Queue / Binary Heap
   - visualized as a tree, but is usually linear in storage (array, linked list)
   - [ ] [Heap](<https://en.wikipedia.org/wiki/Heap_(data_structure)>)
-  - [ ] [Introduction (video)](https://www.coursera.org/lecture/data-structures/introduction-2OpTs)
-  - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
-  - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
-  - [ ] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
-  - [ ] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
-  - [ ] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
+  - [x] [Introduction (video)](https://www.coursera.org/lecture/data-structures/introduction-2OpTs)
+  - [x] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
+  - [x] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
+  - [x] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
+  - [x] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
+  - [x] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
   - [ ] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
-  - [ ] [Heap Sort (video)](https://www.coursera.org/lecture/data-structures/heap-sort-hSzMO)
-  - [ ] [Building a heap (video)](https://www.coursera.org/lecture/data-structures/building-a-heap-dwrOS)
+  - [x] [Heap Sort (video)](https://www.coursera.org/lecture/data-structures/heap-sort-hSzMO)
+  - [x] [Building a heap (video)](https://www.coursera.org/lecture/data-structures/building-a-heap-dwrOS)
   - [ ] [MIT 6.006 Introduction to Algorithms: Binary Heaps](https://www.youtube.com/watch?v=Xnpo1atN-Iw&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=12)
   - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
   - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-  - [ ] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
+  - [x] [[Review] Heap (playlist) in 13 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZNsyqgPW-DNwUeT8F8uhWc6)
   - [ ] Implement a max-heap:
     - [ ] insert
     - [ ] sift_up - needed for insert
@@ -983,7 +983,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Skiena Lectures - great intro:
 
-  - [ ] [CSE373 2020 - Lecture 10 - Graph Data Structures (video)](https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=10)
+  - [x] [CSE373 2020 - Lecture 10 - Graph Data Structures (video)](https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=10)
   - [ ] [CSE373 2020 - Lecture 11 - Graph Traversal (video)](https://www.youtube.com/watch?v=ZTwjXj81NVY&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11)
   - [ ] [CSE373 2020 - Lecture 12 - Depth First Search (video)](https://www.youtube.com/watch?v=KyordYB3BOs&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=12)
   - [ ] [CSE373 2020 - Lecture 13 - Minimum Spanning Trees (video)](https://www.youtube.com/watch?v=oolm2VnJUKw&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=13)
